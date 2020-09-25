@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 align="center"> Hello, I am Pradeep Bhattarai </h2>
+<h2 align="center"> I am Pradeep Bhattarai </h2>
 
 
 ### Github Stats
