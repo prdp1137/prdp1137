@@ -6,6 +6,11 @@
 
 I am a passionate Penetration Tester and Red Teamer with a strong foundation in secure coding concepts, specializing in web, network, and mobile security vulnerability assessment and penetration testing. My expertise extends to System Administration, Cryptography, Reconnaissance, Infrastructure Security, and Management.
 
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pr0d33p&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pr0d33p&theme=black-ice&hide_border=false&stroke=lightblue&background=060A0CD0)
+
 ### Technical Skills
 
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -39,6 +44,7 @@ I am a passionate Penetration Tester and Red Teamer with a strong foundation in 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
 
 ### Links
 
