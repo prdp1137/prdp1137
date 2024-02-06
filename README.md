@@ -42,9 +42,11 @@ I am a passionate Penetration Tester and Red Teamer with a strong foundation in 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-1337?style=for-the-badge&logo=mysql&logoColor=white&color=orange)
+![Mongo](https://img.shields.io/badge/MongoDB-1337?style=for-the-badge&logo=mongoDB&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/opensearch-1337?style=for-the-badge&logo=opensearch&logoColor=white&color=blue)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
 
 ### Links
 
