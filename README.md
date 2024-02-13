@@ -9,17 +9,11 @@ I am a passionate Penetration Tester and Red Teamer with a strong foundation in 
 ### GitHub Stats
 
 <table style="width: 100%;">
-    <tr>
-        <td style="width: 50%; height: 200px;">
-            <img src="https://github-readme-stats.vercel.app/api?username=pr0d33p&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 100%; height: 100%;">
-        </td>
-        <td style="width: 50%; height: 200px;">
+    <tr style="width: 100%; height: 300px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=pr0d33p&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 100%; height: 100%;">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr0d33p&theme=black-ice&hide_border=false&stroke=lightblue&background=060A0CD0" alt="GitHub Streak" style="width: 100%; height: 100%;">
-        </td>
     </tr>
 </table>
-
-
 
 ### Technical Skills
 
